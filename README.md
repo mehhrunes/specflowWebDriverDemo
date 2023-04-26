@@ -1,4 +1,6 @@
 # specflowWebDriverDemo
-To run the test simply do the following:
+To run the test simply run the following commands:
+
 dotnet build
+
 dotnet test
